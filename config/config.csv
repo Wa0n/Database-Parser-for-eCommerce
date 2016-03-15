@@ -1,0 +1,2 @@
+Host,Port,Login Name,Password,Database,DB Management System
+host,3306,user,password,rk,mysql
